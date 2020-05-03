@@ -1,0 +1,2 @@
+1. create git repository
+2. practise code and push code on the repository
